@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DAVIDts11/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/DAVIDts11/LeetCode/tree/master/0066-plus-one) |
 | [0228-summary-ranges](https://github.com/DAVIDts11/LeetCode/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/DAVIDts11/LeetCode/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/DAVIDts11/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
