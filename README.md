@@ -9,10 +9,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DAVIDts11/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/DAVIDts11/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/DAVIDts11/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/DAVIDts11/LeetCode/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DAVIDts11/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
