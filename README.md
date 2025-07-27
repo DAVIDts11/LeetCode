@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DAVIDts11/LeetCode/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0228-summary-ranges](https://github.com/DAVIDts11/LeetCode/tree/master/0228-summary-ranges) |
 <!---LeetCode Topics End-->
