@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DAVIDts11/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/DAVIDts11/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DAVIDts11/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/DAVIDts11/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/DAVIDts11/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -33,8 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DAVIDts11/LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/DAVIDts11/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DAVIDts11/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/DAVIDts11/LeetCode/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/DAVIDts11/LeetCode/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/DAVIDts11/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
